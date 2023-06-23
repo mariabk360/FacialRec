@@ -1,0 +1,14 @@
+User: Hello!
+Chatbot: Hello! How can I assist you today?
+User: I would like to know what are the popular tourist attractions in my city.
+Chatbot: Certainly, which city are you located in?
+User: I'm in Paris.
+Chatbot: Paris is an incredibly rich city when it comes to tourist attractions. You can visit the Eiffel Tower, the Louvre, Notre-Dame Cathedral, the Musée d'Orsay, and many more. There are also beautiful neighborhoods like Montmartre and Le Marais that are worth exploring. What kind of attractions are you interested in?
+User: I'm interested in history and culture.
+Chatbot: In that case, I recommend visiting the Louvre, which houses numerous historical and cultural artworks, including the famous Mona Lisa. Notre-Dame Cathedral is also a must-visit historical landmark in Paris. You can also take a stroll along the banks of the River Seine and soak in the charming atmosphere of the city. I hope that answers your query!
+User: Yes, thank you very much for this information!
+Chatbot: You're welcome! Feel free to ask if you have any other questions. I'm here to assist you. Enjoy your visit to Paris!
+
+
+
+

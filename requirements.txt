@@ -1,3 +1,5 @@
+opencv-contrib-python-headless
+streamlit_webrtc==0.20.0
 opencv-python-headless==4.5.3.56
 streamlit==0.89.0
 webcolors==1.11.1

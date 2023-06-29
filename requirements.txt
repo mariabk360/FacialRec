@@ -1,3 +1,3 @@
-opencv-python==4.5.3.56
+opencv-python-headless==4.5.3.56
 streamlit==0.89.0
 webcolors==1.11.1

@@ -1,13 +1,18 @@
 import nltk
+
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('stopwords')
 nltk.download('wordnet')
+print(nltk.__version__)
+import sys
+
+print("Python version:", sys.version)
 
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-import string
+import string    
 import streamlit as st
 
 
